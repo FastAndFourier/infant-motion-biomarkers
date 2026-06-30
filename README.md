@@ -2,7 +2,7 @@
 
 Thesis code for CP outcome prediction from infant wearable IMU data. Compares hand-engineered signal features, VQ-VAE symbolic tokens, and foundation-model embeddings under nested cross-validation at window / session / infant scales.
 
-See [`src/DATASET_README.md`](src/DATASET_README.md) for the full data format spec and [`experimental_plan.md`](experimental_plan.md) for the evaluation protocol.
+See [`src/DATASET_README.md`](src/DATASET_README.md) for the full data format spec.
 
 ---
 
